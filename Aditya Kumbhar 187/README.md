@@ -4,7 +4,7 @@
 **Roll No:** 187  
 **Track:** Backend Development  
 **Tech Stack:** Node.js, Express.js, Firebase Admin (Firestore), JWT, bcryptjs, express-rate-limit, swagger-ui-express, swagger-jsdoc, dotenv, cors  
-
+Live Link: https://assignment-12-event-management-ticketing-vtwr.onrender.com/ 
 ---
 
 ## 📌 1. Project Overview
